@@ -1,0 +1,4 @@
+normally opencv and pillow are installed in my gentoos, check.
+pyperclip, pyaudio and python-dotenv normally aren't, so install those.
+then pip install -r myrequirements.txt --user
+takes care of the rest
